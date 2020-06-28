@@ -1,0 +1,6 @@
+jack: nice to meet you
+Rose: Me too
+jack: how are you?
+Rose: i am funny.
+jack: you are so beautiful
+Rose: thank you.

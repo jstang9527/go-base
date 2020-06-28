@@ -1,0 +1,58 @@
+[2020-06-14 15:33:05] [DEBUG] [test.go:main.fileLog:29] 我是true一个debug[1 2 3]
+[2020-06-14 15:33:05] [TRACE] [test.go:main.fileLog:30] 我是一个Tracetrue
+[2020-06-14 15:33:05] [INFO] [test.go:main.fileLog:31] 我是一个信息
+[2020-06-14 15:33:05] [DEBUG] [test.go:main.fileLog:32] 我是true一个debug[1 2 3]
+[2020-06-14 15:33:05] [TRACE] [test.go:main.fileLog:33] 我是一个Tracetrue
+[2020-06-14 15:33:05] [INFO] [test.go:main.fileLog:34] 我是一个信息
+[2020-06-14 15:33:05] [ERROR] [test.go:main.fileLog:35] 我是错误Error0000001
+[2020-06-14 15:33:05] [WARNING] [test.go:main.fileLog:36] 我是警告
+[2020-06-14 15:33:05] [ERROR] [test.go:main.fileLog:37] 我是错误Error0000002
+[2020-06-14 15:33:05] [FATAL] [test.go:main.fileLog:38] 我奔溃了1我奔溃了1我奔溃了1我奔溃了1我奔溃了1我奔溃了1
+[2020-06-14 15:33:05] [FATAL] [test.go:main.fileLog:39] 我奔溃了2我奔溃了2我奔溃了2我奔溃了2我奔溃了2我奔溃了2
+[2020-06-14 15:33:08] [DEBUG] [test.go:main.fileLog:29] 我是true一个debug[1 2 3]
+[2020-06-14 15:33:08] [TRACE] [test.go:main.fileLog:30] 我是一个Tracetrue
+[2020-06-14 15:33:08] [INFO] [test.go:main.fileLog:31] 我是一个信息
+[2020-06-14 15:33:08] [DEBUG] [test.go:main.fileLog:32] 我是true一个debug[1 2 3]
+[2020-06-14 15:33:08] [TRACE] [test.go:main.fileLog:33] 我是一个Tracetrue
+[2020-06-14 15:33:08] [INFO] [test.go:main.fileLog:34] 我是一个信息
+[2020-06-14 15:33:08] [ERROR] [test.go:main.fileLog:35] 我是错误Error0000001
+[2020-06-14 15:33:08] [WARNING] [test.go:main.fileLog:36] 我是警告
+[2020-06-14 15:33:08] [ERROR] [test.go:main.fileLog:37] 我是错误Error0000002
+[2020-06-14 15:33:08] [FATAL] [test.go:main.fileLog:38] 我奔溃了1我奔溃了1我奔溃了1我奔溃了1我奔溃了1我奔溃了1
+[2020-06-14 15:33:08] [FATAL] [test.go:main.fileLog:39] 我奔溃了2我奔溃了2我奔溃了2我奔溃了2我奔溃了2我奔溃了2
+[2020-06-14 15:33:11] [DEBUG] [test.go:main.fileLog:29] 我是true一个debug[1 2 3]
+[2020-06-14 15:33:11] [TRACE] [test.go:main.fileLog:30] 我是一个Tracetrue
+[2020-06-14 15:33:11] [INFO] [test.go:main.fileLog:31] 我是一个信息
+[2020-06-14 15:33:11] [DEBUG] [test.go:main.fileLog:32] 我是true一个debug[1 2 3]
+[2020-06-14 15:33:11] [TRACE] [test.go:main.fileLog:33] 我是一个Tracetrue
+[2020-06-14 15:33:11] [INFO] [test.go:main.fileLog:34] 我是一个信息
+[2020-06-14 15:33:11] [ERROR] [test.go:main.fileLog:35] 我是错误Error0000001
+[2020-06-14 15:33:11] [WARNING] [test.go:main.fileLog:36] 我是警告
+[2020-06-14 15:33:11] [ERROR] [test.go:main.fileLog:37] 我是错误Error0000002
+[2020-06-14 15:33:11] [FATAL] [test.go:main.fileLog:38] 我奔溃了1我奔溃了1我奔溃了1我奔溃了1我奔溃了1我奔溃了1
+[2020-06-14 15:33:11] [FATAL] [test.go:main.fileLog:39] 我奔溃了2我奔溃了2我奔溃了2我奔溃了2我奔溃了2我奔溃了2
+[2020-06-14 15:33:14] [DEBUG] [test.go:main.fileLog:29] 我是true一个debug[1 2 3]
+[2020-06-14 15:33:14] [TRACE] [test.go:main.fileLog:30] 我是一个Tracetrue
+[2020-06-14 15:33:14] [INFO] [test.go:main.fileLog:31] 我是一个信息
+[2020-06-14 15:33:14] [DEBUG] [test.go:main.fileLog:32] 我是true一个debug[1 2 3]
+[2020-06-14 15:33:14] [TRACE] [test.go:main.fileLog:33] 我是一个Tracetrue
+[2020-06-14 15:33:14] [INFO] [test.go:main.fileLog:34] 我是一个信息
+[2020-06-14 15:33:14] [ERROR] [test.go:main.fileLog:35] 我是错误Error0000001
+[2020-06-14 15:33:14] [WARNING] [test.go:main.fileLog:36] 我是警告
+[2020-06-14 15:33:14] [ERROR] [test.go:main.fileLog:37] 我是错误Error0000002
+[2020-06-14 15:33:14] [FATAL] [test.go:main.fileLog:38] 我奔溃了1我奔溃了1我奔溃了1我奔溃了1我奔溃了1我奔溃了1
+[2020-06-14 15:33:14] [FATAL] [test.go:main.fileLog:39] 我奔溃了2我奔溃了2我奔溃了2我奔溃了2我奔溃了2我奔溃了2
+[2020-06-14 15:33:17] [DEBUG] [test.go:main.fileLog:29] 我是true一个debug[1 2 3]
+[2020-06-14 15:33:17] [TRACE] [test.go:main.fileLog:30] 我是一个Tracetrue
+[2020-06-14 15:33:17] [INFO] [test.go:main.fileLog:31] 我是一个信息
+[2020-06-14 15:33:17] [DEBUG] [test.go:main.fileLog:32] 我是true一个debug[1 2 3]
+[2020-06-14 15:33:17] [TRACE] [test.go:main.fileLog:33] 我是一个Tracetrue
+[2020-06-14 15:33:17] [INFO] [test.go:main.fileLog:34] 我是一个信息
+[2020-06-14 15:33:17] [ERROR] [test.go:main.fileLog:35] 我是错误Error0000001
+[2020-06-14 15:33:17] [WARNING] [test.go:main.fileLog:36] 我是警告
+[2020-06-14 15:33:17] [ERROR] [test.go:main.fileLog:37] 我是错误Error0000002
+[2020-06-14 15:33:17] [FATAL] [test.go:main.fileLog:38] 我奔溃了1我奔溃了1我奔溃了1我奔溃了1我奔溃了1我奔溃了1
+[2020-06-14 15:33:17] [FATAL] [test.go:main.fileLog:39] 我奔溃了2我奔溃了2我奔溃了2我奔溃了2我奔溃了2我奔溃了2
+[2020-06-14 15:33:20] [DEBUG] [test.go:main.fileLog:29] 我是true一个debug[1 2 3]
+[2020-06-14 15:33:20] [TRACE] [test.go:main.fileLog:30] 我是一个Tracetrue
+[2020-06-14 15:33:20] [INFO] [test.go:main.fileLog:31] 我是一个信息

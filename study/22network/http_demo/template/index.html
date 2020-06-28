@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+    <title>商城</title>
+    <!-- <link href="favicon.ico" rel="icon" type="image/x-ico"> -->
+    <!-- <link rel="shortcut icon" href="favicon.ico" /> -->
+    <link rel="shortcut icon" href="http://www.bitbug.net/favicon.ico">
+</head>
+<body>
+    <h1 style="color:red;text-align:center">商城网站</h1>
+    <div style="text-align: center;">
+        <img id="i1" src="./images/lun1.jpg"/>
+    </div>
+    <div style="text-align: center;">
+        <button id="b1">前一张</button>
+        <button id="b2">后一张</button>
+    </div>
+    
+    <script>
+        document.getElementById("b1").onclick=function(){
+            document.getElementById("i1").src="./images/lun2.jpg"
+        }
+        document.getElementById("b2").onclick=function(){
+            document.getElementById("i1").src="./images/lun1.jpg"
+        }
+    </script>
+</body>
+</html>
